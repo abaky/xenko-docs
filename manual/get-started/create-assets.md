@@ -35,7 +35,7 @@ Xenko provides two main ways to create assets for your game:
 You can also create Assets by **dragging and dropping resource files** directly from Windows Explorer into the *Asset View* tab.
 
 > [!NOTE]
-> By drag-and-dropping, you can create only create assets that takes a single resource file as input.
+> By drag-and-dropping, you can only create assets that takes a single resource file as input.
 
 **To create a asset file by drag-and-dropping:**
 
