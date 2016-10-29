@@ -40,7 +40,7 @@ In this case, a **specific editor** is provided to edit and modify the asset in 
 This is for example the case of the Scene, Sprite sheet and UI Page assets.
 
 To **open the editor** of an asset, **double click** on the desired asset, right-click and select "Edit asset..." in the context menu,
-or select the asset and type **Ctrl+Enter**.
+or select the asset and press **Ctrl+Enter**.
 
 > [!NOTE]
 > Some asset types are simple enough to be entirely configured from property grid and doesn't have dedicated editors.
