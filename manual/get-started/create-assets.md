@@ -20,7 +20,7 @@ Xenko provides two main ways to create assets for your game:
  	
 	A list of template appears. An asset template is an asset that is already preset for a specific use.
 	
- 3. **Select the template** that that is the closest to your needs. In this sample we'll create a procedural model by selecting 'Cube':
+ 3. **Select the template** that is the closest to your needs. In this sample we'll create a procedural model by selecting 'Cube':
 
     The asset is added to the 'Asset View' tab.
 
